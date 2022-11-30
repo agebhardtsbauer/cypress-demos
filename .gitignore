@@ -1,3 +1,7 @@
-./node_modules
-
+# node modules
 node_modules
+
+# cypress output
+cypress/screenshots
+cypress/reports
+cypress/videos
