@@ -1,0 +1,16 @@
+{
+  "name": "testers",
+  "version": "1.0.0",
+  "description": "testing code",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "alangebhardtsbauer",
+  "license": "ISC",
+  "dependencies": {
+    "cy2": "^2.0.0",
+    "cypress": "^10.6.0",
+    "cypress-xpath": "^2.0.1"
+  }
+}
